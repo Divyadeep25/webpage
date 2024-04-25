@@ -1,1 +1,1 @@
-Just practicisng eb page
+Just practicisng web page
