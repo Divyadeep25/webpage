@@ -1,0 +1,76 @@
+
+       body{
+        background-image: url('https://images.wsj.net/im-811862?width=700&size=1.5005861664712778');
+        background-repeat: no-repeat;
+        background-size: cover;
+       }
+       
+       h1{
+        color: black;
+        background-color: azure;
+        background-size: auto;
+        text-align: center;
+       }
+
+       img{
+        display: block;
+        width: 600px;
+        height: 50px;
+       margin-left: auto;
+       margin-right: auto;
+
+       }
+
+      
+       .para{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: inherit;
+        font-size: 20px;
+        color: antiquewhite;
+        text-shadow: 2px 2px black;
+        column-gap: 10px;
+       }
+       
+       
+       
+       
+       
+       a:link {
+              color: blue;
+              background-color: transparent;
+              text-decoration: none;
+            }
+            
+            a:visited {
+              color: green;
+              background-color: transparent;
+              text-decoration: none;
+            }
+            
+            a:hover {
+              color: purple;
+              background-color: transparent;
+              text-decoration: underline;
+            }
+            
+            a:active {
+              color: lightslategray;
+              background-color: transparent;
+              text-decoration: underline;
+            }
+
+            table,th,td{border: 1px solid black;
+               border-collapse: collapse;
+            align-items: center;}
+
+               th,td{
+                text-align: center;
+                padding: 10px;
+               }
+               th{
+                background-color: cadetblue;
+               }
+               tr:hover {
+                background-color: #D6EEEE;
+              }
+   
